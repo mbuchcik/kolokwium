@@ -18,7 +18,7 @@ namespace kolokwium
                 new Point(2, 3)
             };
 
-            Square square = new Square(2, 2);
+            Square square = new Square(2,2);
 
             foreach (Point pos in square.vertices)
             {

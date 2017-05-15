@@ -49,6 +49,7 @@
     <Compile Include="Square.cs" />
     <Compile Include="SquareTest.cs" />
     <Compile Include="Triangle.cs" />
+    <Compile Include="TriangleTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
